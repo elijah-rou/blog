@@ -1,6 +1,6 @@
 ---
 name: webshite
-repo: https://github.com/elijah-rou/webshite
+repo: https://github.com/elijah-rou/blog
 language: Astro
 summary: This site.
 order: 10
