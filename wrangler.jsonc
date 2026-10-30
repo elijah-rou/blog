@@ -2,7 +2,7 @@
 // Build and deploy settings live in the Cloudflare dashboard (see README).
 {
 	"$schema": "https://unpkg.com/wrangler@4.149.0/config-schema.json",
-	"name": "webshite",
+	"name": "blog",
 	"compatibility_date": "2026-10-09",
 	// Each preview gets a public workers.dev address (also switched on in the dashboard).
 	"preview_urls": true,
