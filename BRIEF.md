@@ -7,7 +7,7 @@ to the first prototype.
 
 Build Elijah Roussos's personal portfolio and blog, with space for programming,
 projects, writing, and music. Use the existing
-[elijah-rou/webshite](https://github.com/elijah-rou/webshite) repository in
+[elijah-rou/blog](https://github.com/elijah-rou/blog) repository in
 `~/Projects/webshite`.
 
 The initial idea was a website inspired by a favourite game, possibly combined
